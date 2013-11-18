@@ -29,8 +29,8 @@ $(document).ready(function(){
         }
 
     }
-$(window).load(checkWindowSize);
-$(window).resize(checkWindowSize);
-        //(UPDATE)do add remove of CSS-classes, according to w / needs
-
+    $(window).load(checkWindowSize);
+    $(window).resize(checkWindowSize);
 });
+
+	
